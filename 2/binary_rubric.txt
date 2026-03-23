@@ -1,0 +1,7 @@
+Does the output explicitly state the HTTP method for the endpoint?
+Does the output explicitly state the exact URL path for the endpoint?
+Does the output explicitly mention HTTP headers such as Content-Type or Authorization?
+Does the output provide a concrete formatted example of the request payload?
+Does the output explicitly list specific numerical HTTP status codes for the responses?
+Does the output explicitly describe the exact conditions that trigger error responses?
+Does the output explicitly mention specific field names expected in the request payload?

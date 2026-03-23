@@ -1,0 +1,41 @@
+question,is_correct
+"What is the difference between a type I error and a type II error?",1
+"How does a lock-free data structure avoid the need for mutexes?",1
+"Explain how skip-gram word embeddings are trained.",0
+"True or false: regularisation techniques such as dropout reduce overfitting in neural networks.",1
+"How does gradient clipping help training deep neural networks?",1
+"How does a bloom filter work and what is its false positive rate?",0
+"What is the purpose of normalisation in relational databases?",1
+"What is the difference between synchronous and asynchronous I/O?",0
+"What is the bias-variance tradeoff in statistical modelling?",1
+"What is the purpose of a foreign key constraint?",1
+"True or false: the riemann hypothesis concerns the distribution of prime numbers and remains unproven.",1
+"Explain what cross-validation is used for.",1
+"What does it mean for a function to be pure in functional programming?",1
+"How does the attention mechanism help models handle long-range dependencies?",0
+"What is an abstract syntax tree and how is it used in compilation?",1
+"What is the difference between depth-first and breadth-first search?",1
+"What is the difference between a process and a thread?",1
+"What is the danger of data leakage in machine learning pipelines?",1
+"A student claims that the human brain contains approximately eighty six billion neurons. Evaluate this claim.",1
+"Based on the following fact — ""the mitochondria is often referred to as the powerhouse of the cell"" — what can be concluded?",1
+"How does the Floyd-Warshall algorithm compute all-pairs shortest paths?",0
+"Explain the concept of tail-call optimisation.",1
+"According to recent sources, a hash function maps data of arbitrary size to a fixed size digest deterministically. Is this statement correct?",1
+"Explain what a race condition is and how it arises.",1
+"What is the difference between accuracy and F1 score?",1
+"How does consistent hashing reduce rebalancing in distributed caches?",1
+"Based on the following fact — ""the speed of sound in air at sea level is approximately three hundred forty three metres per second"" — what can be concluded?",1
+"Explain the difference between optimistic and pessimistic concurrency control.",1
+"What is the difference between eager and lazy evaluation?",0
+"How does a generative adversarial network work?",0
+"What is the significance of the Turing test?",1
+"How does reinforcement learning differ from supervised learning?",1
+"True or false: the haversine formula computes great circle distances between two points on a sphere.",1
+"Explain what a RESTful API is and its key constraints.",1
+"How does batch normalisation speed up neural network training?",1
+"The following was found online: ""ohms law states that voltage equals current multiplied by resistance"". Assess its accuracy.",1
+"Verify the following statement: the first programmable electronic computer was eniac completed in nineteen forty five.",1
+"What is a kernel trick and why is it used in SVMs?",1
+"A student claims that the largest planet in our solar system is jupiter which has a diameter of about 143000 kilometres. Evaluate this claim.",1
+"What is the difference between supervised and unsupervised learning?",0
